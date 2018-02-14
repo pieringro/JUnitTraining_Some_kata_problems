@@ -1,0 +1,2 @@
+# JUnitTraining
+Playing with junit
